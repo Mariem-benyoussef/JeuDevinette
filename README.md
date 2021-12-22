@@ -5,7 +5,7 @@ ouvrir le terminal
 
    npm install -g json-server
 
-2-Démarrer le serveur JSON
+2. Démarrer le serveur JSON
 
    json-server --watch ./api/joueurs.json
   

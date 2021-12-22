@@ -1,0 +1,7 @@
+{
+  "name": "prepExamen",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}

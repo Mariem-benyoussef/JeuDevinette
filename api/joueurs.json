@@ -1,0 +1,22 @@
+{
+  "joueurs": [
+    {
+      "id": "1",
+      "name": "Salah",
+      "score": 40,
+      "time":5
+    },
+    {
+      "id": "2",
+      "name": "Ali",
+      "score": 50,
+      "time":4
+    },
+    {
+      "name": "Mariem",
+      "score": 50,
+      "time": 5,
+      "id": "tXfDCok"
+    }
+  ]
+}
